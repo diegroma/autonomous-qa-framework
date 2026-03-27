@@ -44,6 +44,8 @@ GROQ_MODEL=llama-3.3-70b-versatile
 GROQ_TEMPERATURE=0.1
 GROQ_MAX_TOKENS=4096
 TEST_TIMEOUT=60000
+
+#Optional (Required if target app needs login)
 AUTH_USERNAME=your_url_username
 AUTH_PASSWORD=your_url_password
 ```
