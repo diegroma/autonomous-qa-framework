@@ -17,8 +17,8 @@
 
 ## 📦 Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/e2e-autonomous-framework](https://github.com/diegroma/autonomous-qa-framework)
-cd e2e-autonomous-framework
+git clone https://github.com/diegroma/autonomous-qa-framework.git
+cd autonomous-qa-framework
 npm install
 ```
 
